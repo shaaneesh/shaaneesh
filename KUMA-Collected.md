@@ -3,7 +3,7 @@
 July 12, 2026 (7-12).
 Collected fundamental concepts.
 
-## Applicability / Scopr
+## Applicability / Scope
  - Universal Context/Habitat/Species
  - Any Human Activity
  - Business Activity
