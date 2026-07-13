@@ -14,7 +14,6 @@ Collected fundamental concepts.
 ## Project - Product - Program
  - RIng of Integration
 
-
 ## Universal Principles - Top-Tier
  - Universal, Business, Tech
 
@@ -25,7 +24,7 @@ Collected fundamental concepts.
 ## Visual-Based / Graphical
  - Why?
 
-## Think, Act
+## Think, then Act
 
 ## Cross-Mapping
 
@@ -53,7 +52,7 @@ Collected fundamental concepts.
 
 ## Learning Process
  - Skills - musical instrument example
-> pace, rest, draining the funnel (building neural structures), arriving with wide skills
+ -> pace, rest, draining the funnel (building neural structures), arriving with wide skills
 
 ## Knowledge vs Skills vs Intelligence
 
