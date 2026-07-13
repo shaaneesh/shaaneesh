@@ -15,3 +15,6 @@ This is defining a standard for priorities or measurement or criticism.
 If something is any of the above, it should be possible to set a Reference that is measurable, and then do a Ranking to put them in priority order.
 For example, allocating resources to various priorities, placing attention on a concern or criticism, criticizing others' choices or priorities, defining impacts for policies, etc.
 As with StaBL, exceptions should be clear and documented.  Some References are not possible to measure numerically, but the concept can still be defined and the person (or people) focused on it should be able to do a Ranking in a neutral way.
+
+
+[Collected other concepts under the KUMA collection](/KUMA-Collected.md)
