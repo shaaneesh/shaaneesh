@@ -71,6 +71,9 @@ Collected fundamental concepts.
  - Social (Personal)
  - Technical Work
 
+## Large-Scale Change / Influence / Societal Impact
+ - Art Forms & Artworks & Artists are a much better model than Academic/Business/Technical models
+
 ## Loyalty
  - To the Group and Descendants, or to the Leader
  - Eyes Open, watch for Cross-Blindness
