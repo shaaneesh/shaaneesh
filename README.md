@@ -2,7 +2,7 @@
 
 October 18th, 2026 (original concept on Oct 16th 2026):
 ## Decades of experience --> summarized:
-*“Technology + Business + Program Context + Innovation + Readiness + Culture –> enables practical business value”*
+***“Technology + Business + Program Context + Innovation + Readiness + Culture –> enables practical business value”***
 
 ========================================
 
