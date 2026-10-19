@@ -1,5 +1,11 @@
 ﻿# Standards-Based Living (StaBL)
 
+October 18th, 2026 (original concept on Oct 16th 2026):
+## Decades of experience --> summarized:
+“Technology + Business + Program Context + Innovation + Readiness + Culture –> enables practical business value”
+
+========================================
+
 July 7, 2026 (7-7).
 This is the announcement of a new way of thinking about societal and personal values & ideas.  It is intended to apply globally, independent of ideologies, politics, education, doctrine, spiritualities, ethnicities, nationalities, etc.
 
